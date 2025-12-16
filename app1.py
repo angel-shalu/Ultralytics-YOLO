@@ -9,7 +9,7 @@ import base64
 # -----------------------------------
 # PAGE CONFIG
 # -----------------------------------
-st.set_page_config(page_title="DeepVision Analyzer", layout="wide", page_icon="🤖")
+st.set_page_config(page_title="OmniVisionX", layout="wide", page_icon="🤖")
 
 # -----------------------------------
 # OPTIONAL BACKGROUND VIDEO
